@@ -107,7 +107,7 @@ Most notably all of his castles are an easter egg. Does the inner castle look fa
 
 This castle has propably the most historically accurate layout you'll ever see in a Stronghold game. As an easter egg, all of Frederick's castles are architecturally inspired by the castle of Nürnberg. This castle is known to have been the favourite residence of many emperors of the so-called *Holy Empire* and thus I gave it to Frederick.
 
-Frederick's castles consist of three sections, one in front of the next one. To improve his castle's defences, a section's walls are never connected to an other section's walls. And thus, unlike e.g. the castles of the Wolf, you cannot take over the whole castle by pushing just one siege tower somewhere against the walls. The original castle is built on a hill-rock-thing. To compensate for the lack of such positions in *Stronghold Crusader*, Frederick's castles are surrounded by a thick moat.
+Frederick's castles consist of three sections, one in front of the next one. To improve his castle's defences, a section's walls are never connected to an other section's walls. And thus, unlike e.g. the castles of the original Wolf, you cannot take over the whole castle by pushing just one siege tower somewhere against the walls. The original castle is built on a hill-rock-thing. To compensate for the lack of such positions in *Stronghold Crusader*, Frederick's castles are surrounded by a thick moat.
 
 ### King Philip
 
@@ -137,7 +137,7 @@ As an easter egg, one of the Emir's castles has its walls swapped: The outer cit
 
 ![Screenshot of the new Nizar's castle](./img/nizar.png)
 
-There are quite some changes made to the Nizar, though it might not seem like it at first. The most important change is that his new village is at least slightly more compact than his vanilla ones, allowing the moat to start earlier and thus be much wider. Oh, I forgot... *ahem*... *"Oh, did you like his moats? Yeah, how do I say this... err... well, there is more of 'em. Lots more."* But why? Being wider makes it easier for the Nizar to enclose his own farms with moat, in case he is placed too near to an oasis. As moats have a lower priority than buildings, the AI will never remove a farm to dig moats. For the Nizar this means that a farm nearby can create a huge opening in his moat, rendering all of his gatehouse defences useless. If, however, his farms are fully enclosed with moat and are thus unreachable, the Nizar will delete this farm and then dig his moat where the farm once was.
+There are quite some changes made to the Nizar, though it might not seem like it at first. The most important change is that his new village is at least slightly more compact than his vanilla ones, allowing the moat to start earlier and thus be much wider. Oh, I forgot... *ahem*... *"Oh, did you like his moats? Yeah, how do I say this... err... well, there is more of 'em. Lots more."* But why? Being wider makes it easier for the Nizar to enclose his own farms with moat, in case he is placed too near to an oasis. As moats have a lower priority than buildings, the AI will never remove a farm to dig moats. For the Nizar this means that a farm nearby can create a huge opening in his moat, rendering all of his gatehouse defences useless. If, however, his farms are fully enclosed with moat and are thus unreachable, the Nizar will delete this farm and then dig his moat where the farm once was. To help him removing his own farms from his moat, the new Nizar builds sun ray walls into his moat.
 
 An other design change is that his paths into the inner castle have been shortened a lot. What you see in this screenshot is his longest path. In vanilla, quite a few of the Nizar's castles have passages of up to four times this length, resulting in quite a weak economy. In addition to that, after a certain length it is way less dangerous to just fill up the whole moat in a straight line towards the keep than to send your army in circles along the entrance path, making those paths worse than useless.
 
@@ -155,7 +155,9 @@ Putting the poor civilian's houses outside of his fine and noble castle's walls 
 
 ![Screenshot of the new Marshall's castle](./img/marshall.png)
 
-As with the Rat, you might not recognise the Marshall's new castle, at all, in that he now actually has a propper castle. His inner castle is a very simple structure, looking somewhat like a smaller version of vanilla Richard, or somewhat like some Norman Keeps, the latter one being the basic idea behind this castle. As vanilla Marshall loved to keep his castle's back completely wide open, the new Marshall's outer wall does not cover the castle's south as well. Instead, however, the Marshall protects his south with a moat. Oh, and a tiny moat also surrounds his inner castle. Had fun with the Marshall being an easy kill? Well, that he is no more.
+As with the Rat, you might not recognise the Marshall's new castle, at all, in that he now actually builds a rectangular starfort. He builds an inner starfort with high walls and an outer smaller wall in all of his castles. Especially due to his very low number of defensive archers, he really needs such an improved fortification to survive enemy attacks at all.
+
+The Marshall is the only AI lord who does not build any towers, at all. There are two reasons for that. First, this speeds up repairing the fortification a lot. The AI is very slow at saving stones for towers, as the few stones on the stockpile are quickly used to build walls instead. Second, a proper starfort is all bastions and maybe a watchtower in the center.
 
 
 ### The Abbot
