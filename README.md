@@ -47,17 +47,17 @@ Note that the modded AI castles have been tested with all 80 campaign missions o
 
 ![Screenshot of the new Rat's castle](./img/rat.png)
 
-The Rat now actually builds a proper castle, which is inspired by Norman Keeps. The Rat tends to enclose his granary and armoury within his extended keep, securing their contents better than the rest of his castle. In crusader mode skirmishes, the Rat puts countless archers on the towers, making him somewhat well-defended. Oh, and his economy is a bit stronger, allowing the Rat to spam more attacks.
+The Rat now actually builds a proper castle, which is inspired by Norman Keeps and high medieval gatehouses with flanking towers. Usually, the Rat encloses his granary and armoury within the castle walls, perhaps even very few weapon makers. The new Rat also builds some gardens or statues to boost what pitiful "army" he has.
 
-As an easter egg, allied AI lords sometimes dig a moat to further improve the Rat's defences.
+What you see here is the Rat's smallest castle, which encloses nothing but the keep.
 
 ### The Snake
 
 ![Screenshot of the new Snake's castle](./img/snake.png)
 
-The Snake still keeps the idea of having curvy walls. He uses the great round towers to connect more wall sections to the innermost castle wall and even makes use of tower ballistæ. His new castles are also more space-efficient, allowing the Snake to fit into tighter map sections or even right next to a neighbour without any issues.
+Did you like vanilla Snake #3, the snake-and-"S"-shaped castle? Well, that's his architectural style for all of his castles now. Curvy snake walls. To enhance the curvyness, the new Snake uses round towers only, making him the only european lord to use round towers.
 
-As an hommage to this stupid self-imprisoning, the Snake is the only drawbridge-using AI lord who does not also build a drawbridge-less backup gatehouse.
+As an easter egg, one of his castles is a rather... edge-y... rectangle-ish... thing using square-shaped towers.
 
 ### The Pig
 
