@@ -85,9 +85,7 @@ You might recognise his typical vanilla architecture, but you'll also notice wha
 
 ![Screenshot of the new Caliph's castle](./img/caliph.png)
 
-Oh, did you like his towers? Yeah, how do I say this... err... well, there is more of 'em. Lots more. Quite a forest of toothpick towers, in fact. And the Caliph always has an outer wall now. Would be quite ironic if the pyromaniac himself was still easy to set fire on. Oh, talking about fire, did you like his pitch moats? Yeah, how do I say this... err... well, there is more of 'em. Lots more. The Caliph also gained a thicker inner wall, so that you don't immediately have a breach if you destroy one of those toothpick towers.
-
-Remember how all of the Caliph's castles are *(at least somewhat in some cases)* rectangular? As an easter egg one of his castle's is L-shaped. And in an other of his castles the outer wall goes straight through his inner wall.
+Oh, did you like his towers? Yeah, how do I say this... err... well, there is less of 'em. Eight towers, to be precise. Unlike before, those towers are heavily manned. Additionally, destroying the Caliph's toothpick towers does not create a breach. Thus, the Caliph completes his castles quicker and protects them better at the same time.
 
 ### The Sultan
 
