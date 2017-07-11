@@ -71,7 +71,7 @@ Unlike the vanilla castles, this Pig builds bad stuff all over the place. Dungeo
 
 ![Screenshot of the new Wolf's castle](./img/wolf.png)
 
-The new Wolf will look quite familiar, but there are some subtle and some more notable changes. First of all, his architecture has been unified. In Vanilla, most castles of the Wolf look so different from each other that they migh as well belong to entirely different AI lords. Not this time. In addition to that, his castles became more compact, making his economy more efficient and allowing him to dig bigger pitch moats. Being more compact also has the benefit that more artillery troops on more towers can attack your armies at the same time, due to decreased distances between the Wolf's towers.
+The Wolf now has a more unified architecture, though each of the castles still has a recognisable individual style. Basically, the Wolf now builds a thick rectangular center castle with two rows of three towers and two gates between those rows. Sometimes the shape is not very... rectangle-ish, though, as you can see in the screenshot. You can still see the general style of two three-tower-rows, though. The Wolf also no longer has multiple castle sections as you know them from e.g. Firefly's Wolf #1 or Wolf #3. This single section and thin outer wall architecture allows all of the Wolf's new castles to be way more compact than the Firefly versions.
 
 As an easter egg the Wolf now also builds good stuff instead of gallows and what not, due to several hints in the lore of *Stronghold 3*. *(Yes, as a game Stronghold 3 is rubbish, but it had good ideas and the story around the Wolf was pretty neat.)*
 
