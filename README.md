@@ -63,7 +63,9 @@ As an easter egg, one of his castles is a rather... edge-y... rectangle-ish... t
 
 ![Screenshot of the new Pig's castle](./img/pig.png)
 
-All in all, the pig still builds his... weird... wall thing with low walls. Granted, it does have style. This time, however, the Pig separates his castle into three sections. The first section is his inner castle, using high walls and having his biggest towers connected to them. Around this section the new Pig has a living section full of houses on one side of his castle, and a weapon making section on the opposite side. All three sections are finally enclosed with an outer, lower wall with smaller towers. To further improve the Pig, his castle now makes use of tower mangonels. Good thing there aren't any campaign missions where you or your allies have your castles right next to a Pig, right...? Right...?!
+All in all, the pig still builds his... weird... wall thing with low walls. Granted, it does have style. This time, however, the Pig separates his castle into two sections. The inner castle, enclosed by high walls, has two big towers attached to it. One of those towers even has a tower mangonel. Good thing there aren't any campaign missions where you or your allies have your castles right next to a Pig, right...? Right...?! The second section is the castle village, enclosed by those small walls as you know and like them.
+
+Unlike the vanilla castles, this Pig builds bad stuff all over the place. Dungeons, racks, chopping blocks,... almost everything there is to be built. This isn't enough to give him -5 popularity, but it surely is enough to emphasize his character. Really, why didn't Firefly give him more than occasionally two gallows?
 
 ### The Wolf
 
