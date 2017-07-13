@@ -80,7 +80,7 @@ As an easter egg the Wolf now also builds good stuff instead of gallows and what
 
 ![Screenshot of the new Saladin's castle](./img/saladin.png)
 
-You might recognise his typical vanilla architecture, but you'll also notice what has changed. He became more tank-y, surrounding his outer buildings *(simple houses, most of the time)* with a lower wall, and putting all of his big towers to the front line. This makes a frontal assault on Saladin's castle quite punishing and protects him from his nemesis. The vanilla saladin was just too easy to set on fire.
+You might recognise his vanilla architecture, which is mostly influenced by vanilla Saladin #1. Similarly to the new Wolf, Saladin has a front line of three mangonel towers and a back defence of two ballista towers protecting his castle. In addition to that, he likes to cover his secondary entrances with towers like vanilla Saladin #1.
 
 ### The Caliph
 
