@@ -29,8 +29,9 @@ There are quite a lot of issues with Firefly's original AI castles that have not
 Note that the modded AI castles have been tested with all 80 campaign missions of *Stronghold Crusader HD*. The campaign of *Stronghold Crusader Extreme HD* has not yet been tested, as most maps of this game have way, waaay too small areas for AI lords to build their castles on. This means that the AI can almost never build the whole castle, resulting in frustrating fixing and testing sessions. Besides that, as Firefly tends to always choose the same castles of an AI lord for tight spots, fixing this castle in one campaign mission is very likely to break it in an other mission. This is especially true for the Caliph and the Wazir.
 
 - This mod attempts to have no bugs in the castles. No missing gatehouses, no gatehouses facing the wrong directions, no missing tunnelor or engineer guilds, not too few houses, etc.
+- Please note, that M27 is buggy as hell, due to the map itself being buggy. No AI modding whatsoever can fix that.
 - Except for the Snake, all moat-digging AI lords have at least one line of gatehouses without a drawbridge, so that they won't imprison themselves with their own moat.
-- No castle sections or gatehouses are cut off by vegetation *(e.g. cacti, which came from America and should not exist in this game)* in the campaign missions. At least once thanks to friendly glitch power without negative side effects. *(In one mission, the Sultan is allowed to build his mercenary post on impassable stones, without negative effects on any player. Other times the AI puts barracks etc. on trees. This seems to be a purposefully implemented feature from Firefly, making AI villages more tolerant for the surrounding terrain.)*
+- No castle sections or gatehouses are cut off by vegetation *(e.g. cacti, which came from America and should not exist in this game)* in the campaign missions.
 - The Abbot always builds his cathedral before he builds his market. Otherwise the Abbot tends to go on a fast shopping tour, making him bankrupt right before he is about to invest that 1000 gold for his only source of melee troups.
 - The bigger AI castles, especially those of the Abbot and the Wolf, always have multiple entrances on different sides. This makes it highly unlikely that the AI would imprison itself due to ridiculously narrow terrain. In addition to that, it makes it unlikely that all the gatehouses will be closed during a siege.
 - Many of the economy paths have been optimised, especially the Wolf's and Nizar's.
@@ -91,9 +92,7 @@ Oh, did you like his towers? Yeah, how do I say this... err... well, there is le
 
 ![Screenshot of the new Sultan's castle](./img/sultan.png)
 
-Well... prettier and more compact. More comparable to a little palace than an actual castle. But it is the Sultan we're talking about.
-
-As an easter egg in one of his castles the Sultan's keep has four corner toothpick towers. With enough imagination, this gives his keep a *Hagia Sophia* -ish look.
+The Sultan loves round shapes. They remember him of his lovely olive twigs, the ones mourning whenever evil is done towards the poor Sultan. And he loves gardens a lot. At nights, the Sultan loves to lay down in his beautiful flower beds, watching the stars for clues about when would be the perfect time to attack you. As no mere civilian is allowed to disturb the Sultan while having his peace in the gardens, no house is allowed to be built within his palace's walls.
 
 ### King Richard the Lionheart
 
