@@ -98,9 +98,9 @@ The Sultan loves round shapes. They remember him of his lovely olive twigs, the 
 
 ![Screenshot of the new Richard's castle](./img/richard.png)
 
-Remember how easy it was to set Richard on fire? Well, no more, as he now protects his outer castle buildings with a small outer wall. He also always builds two tower ballistæ and two tower mangonels now, whereas vanilla Richard had sometimes three and sometines four big towers.
+Huh... does this castle look familiar? I guess... could it be?! It is! Richard now builds the castle shown on the cover art of *Stronghold Crusader*. Completely unified with two round mangonel and two square ballistæ towers, and always a church and a chapel in his inventory.
 
-Most notably all of his castles are an easter egg. Does the inner castle look familiar to you? Well, the two smaller towers are different, but all in all Richard now builds the castle from the cover art and title screen of *Stronghold Crusader*. I wonder why Firefly didn't have this idea. Seems obvious to me.
+Can you spot the easter egg? Well, have a close look at your *ally*. :)
 
 ### Kaiser Friedrich Barbarossa
 
