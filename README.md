@@ -156,9 +156,7 @@ Putting the poor civilian's houses outside of his fine and noble castle's walls 
 
 ![Screenshot of the new Marshall's castle](./img/marshall.png)
 
-As with the Rat, you might not recognise the Marshall's new castle, at all, in that he now actually builds a rectangular starfort. He builds an inner starfort with high walls and an outer smaller wall in all of his castles. Especially due to his very low number of defensive archers, he really needs such an improved fortification to survive enemy attacks at all.
-
-The Marshall is the only AI lord who does not build any towers, at all. There are two reasons for that. First, this speeds up repairing the fortification a lot. The AI is very slow at saving stones for towers, as the few stones on the stockpile are quickly used to build walls instead. Second, a proper starfort is all bastions and maybe a watchtower in the center.
+The new Marshal learned a few tricks to improve his old architecture. He patiently studied the other AI lords and adapted whatever he felt comfortable with. From Frederick, he learned to use defensive trebuchets, so he got one. From Saladin he learned that offsetting the towers from the walls they protect is a good thing to do. The Snake showed him how useful enclosing his front lines with a moat is. Finally, from the Wolf he learned that it might be useful to force the enemy through multiple gatehouses if they dare storming his castle. Sadly, the Marshall learned from Richard how to man his towers.
 
 
 ### The Abbot
