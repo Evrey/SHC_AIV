@@ -110,13 +110,13 @@ This castle has propably the most historically accurate layout you'll ever see i
 
 Frederick's castles consist of three sections, one in front of the next one. To improve his castle's defences, a section's walls are never connected to an other section's walls. And thus, unlike e.g. the castles of the original Wolf, you cannot take over the whole castle by pushing just one siege tower somewhere against the walls. The original castle is built on a hill-rock-thing. To compensate for the lack of such positions in *Stronghold Crusader*, Frederick's castles are surrounded by a thick moat.
 
-### King Philip
+### King Philippe II. Augustue
 
 ![Screenshot of the new Philip's castle](./img/philip.png)
 
-Well, it's Philip, so don't expect a defensive architectural masterpiece. Though he does have a proper castle this time. Philip also keeps a lightweight version of his vanilla castles' walls.
+Well, it's Philip, so don't expect a defensive architectural masterpiece. I said don't! What is this? A proper starfort. With a watch tower. It's almost as if he got a level up in competence. And then this outer village wall. Small enough for the archers behind to shoot over it. A large moat with drawbridges. Ballista towers. Knights defending specific spots at the moat. I am almost impressed, and there surely is no way Philipp could have fucked up.
 
-His inner castle is losely based on half the layout of the Bastille, a former fortification at the walls of Paris.
+Well... he did. His Maginot Line is - *(not)* surprisingly - quite open at the back. Just walk around it and attack the star fort directly, or his economy. You might even walk around the outer wall to climb up its stairs. Did this guy think his castle architecture through? Perhaps he had to spend too much money for his gardens and churches, leaving no Gold coin for further stone purchases.
 
 ### The Wazir
 
