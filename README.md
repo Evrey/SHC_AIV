@@ -148,9 +148,9 @@ Finally, the Nizar's gatehouses became a bit fancier, thanks to the addition of 
 
 ![Screenshot of the new Sheriff's castle](./img/sheriff.png)
 
-Do you like his vanilla design? Well, I do, which is why I kept the style. The Sheriff's new castles are basically a more compact version of the vanilla ones with added crenelations. As you might notice, one of the reasons why his new castles are so much more compact is that his houses are now placed outside of his castle. The Sheriff now collides less with the terrain or his neighbours.
+Do you like his vanilla design? Well, I do, which is why I kept the overall style. The Sheriff's new castles are basically a more compact version of the vanilla ones with added defensive features. After all, the better the poor Sheriff can protect his tax payers, the more taxes he can collect! The new Sheriff protects his castles with a tower ballista and a line of fire ballistæ. Additionally, his pitch moat shrunk in size, cutting the moat renewal costs in half.
 
-Putting the poor civilian's houses outside of his fine and noble castle's walls certainly fits his character of being a cruel tyrant always raising taxes, even if the tax rate overshoots 100%. Gallows tower his low outer wall, so that everyone on the outside can see what happens to those who are too poor to pay. Thus, as an easter egg, one of the Sheriff's castles is completely reversed in its design. The outer village wall now encloses all the houses, banning the barracks outside. The village wall is high and thick, having big gatehouses and towers, giving the village extra protection. On the other hand, the Sheriff's inner castle has low and thin walls, small towers and a small gatehouse, making it the weakest part of this easter egg castle.
+For those damned criminals not paying him the taxes, the Sheriff always has dungeons available. Some prisoners await their special treatment on the rack, while the bankrupt ones will see the chopping block nearby. And for special cases, the sheriff exposes those criminal non-tax-payers in gibbets within his inner castle. He's such a nice guy, eh.
 
 ### The Marshall
 
