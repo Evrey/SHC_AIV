@@ -138,11 +138,11 @@ As an easter egg, one of the Emir's castles has its walls swapped: The outer cit
 
 ![Screenshot of the new Nizar's castle](./img/nizar.png)
 
-There are quite some changes made to the Nizar, though it might not seem like it at first. The most important change is that his new village is at least slightly more compact than his vanilla ones, allowing the moat to start earlier and thus be much wider. Oh, I forgot... *ahem*... *"Oh, did you like his moats? Yeah, how do I say this... err... well, there is more of 'em. Lots more."* But why? Being wider makes it easier for the Nizar to enclose his own farms with moat, in case he is placed too near to an oasis. As moats have a lower priority than buildings, the AI will never remove a farm to dig moats. For the Nizar this means that a farm nearby can create a huge opening in his moat, rendering all of his gatehouse defences useless. If, however, his farms are fully enclosed with moat and are thus unreachable, the Nizar will delete this farm and then dig his moat where the farm once was. To help him removing his own farms from his moat, the new Nizar builds sun ray walls into his moat.
+Oh, what's that! Walls! Eww... At least they aren't high. Well, the new Nizar builds a spiral wall, surrounded by a thin moat. Sounds too extreme compared to vanilla Nizar? Well, it is a mod, you don't have to use it. But lemme explain:
 
-An other design change is that his paths into the inner castle have been shortened a lot. What you see in this screenshot is his longest path. In vanilla, quite a few of the Nizar's castles have passages of up to four times this length, resulting in quite a weak economy. In addition to that, after a certain length it is way less dangerous to just fill up the whole moat in a straight line towards the keep than to send your army in circles along the entrance path, making those paths worse than useless.
+The new Nizar is way more compact, having a much smaller industry. He still makes enough money, so that helped shrinking his castle. And that's the main point: His new castle is much, much smaller than in vanilla. He no longer digs away all that farm land around him and he no longer keeps a big hole in his moat because of a mere farm.
 
-Finally, the Nizar's gatehouses became a bit fancier, thanks to the addition of flanking towers.
+The new Nizar also has a little... dangerous surprise for you. One of his castles even warns you with a big danger sign.
 
 ### The Sheriff
 
