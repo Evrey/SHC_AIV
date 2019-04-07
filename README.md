@@ -160,7 +160,7 @@ What you see here is the Rat's smallest castle, which encloses nothing but the k
 
 ![Screenshot of the new Snake's castle](./img/snake.png)
 
-Did you like vanilla Snake #3, the snake-and-"S"-shaped castle? Well, that's his architectural style for all of his castles now. Curvy snake walls. To enhance the curvyness, the new Snake uses round towers only, making him the only european lord to use round towers.
+Did you like vanilla Snake #3, the snake-and-"S"-shaped castle? Well, that's his architectural style for all of his castles now. Curvy snake walls. To enhance the curvyness, the new Snake uses round towers only, making him the only european lord to use round towers. *(With one tiny exception.)*
 
 As an easter egg, one of his castles is a rather... edge-y... rectangle-ish... thing using square-shaped towers.
 
@@ -168,15 +168,15 @@ As an easter egg, one of his castles is a rather... edge-y... rectangle-ish... t
 
 ![Screenshot of the new Pig's castle](./img/pig.png)
 
-All in all, the pig still builds his... weird... wall thing with low walls. Granted, it does have style. This time, however, the Pig separates his castle into two sections. The inner castle, enclosed by high walls, has two big towers attached to it. One of those towers even has a tower mangonel. Good thing there aren't any campaign missions where you or your allies have your castles right next to a Pig, right...? Right...?! The second section is the castle village, enclosed by those small walls as you know and like them.
+All in all, the pig still builds his... weird... wall thing with low walls. Granted, it does have style. This time, however, the Pig separates his castle into two sections. The inner castle, enclosed by high walls, has at least one big tower on wall arms attached to it. Those towers even have tower mangonels! Good thing there aren't any campaign missions where you or your allies have your castles right next to a Pig, right...? Right...?! The second section is the castle village, enclosed by those small walls as you know and like them.
 
-Unlike the vanilla castles, this Pig builds bad stuff all over the place. Dungeons, racks, chopping blocks,... almost everything there is to be built. This isn't enough to give him -5 popularity, but it surely is enough to emphasize his character. Really, why didn't Firefly give him more than occasionally two gallows?
+Unlike the vanilla castles, this Pig builds bad stuff all over the place. Dungeons, racks, chopping blocks,... everything there is to be built. This isn't enough to give him -5 popularity, but it surely is enough to emphasize his character. Really, why didn't Firefly give him more than occasionally two gallows?
 
 ### The Wolf
 
 ![Screenshot of the new Wolf's castle](./img/wolf.png)
 
-The Wolf now has a more unified architecture, though each of the castles still has a recognisable individual style. Basically, the Wolf now builds a thick rectangular center castle with two rows of three towers and two gates between those rows. Sometimes the shape is not very... rectangle-ish, though, as you can see in the screenshot. You can still see the general style of two three-tower-rows, though. The Wolf also no longer has multiple castle sections as you know them from e.g. Firefly's Wolf #1 or Wolf #3. This single section and thin outer wall architecture allows all of the Wolf's new castles to be way more compact than the Firefly versions.
+The Wolf now has a more unified architecture, though each of the castles still has a recognisable individual style. Basically, the Wolf now builds a thick rectangular center castle with two rows of three towers and two gates between those rows. Sometimes the shape is not very... rectangle-ish, though, as you can see in the screenshot. You can still see the general style of two three-tower-rows, though. The Wolf also no longer has multiple castle sections as you know them from e.g. Firefly's Wolf #1 or Wolf #3. This single section and thin outer wall architecture allows all of the Wolf's new castles to be way more compact than the Firefly versions, while also having much better and redundant economy paths.
 
 As an easter egg the Wolf now also builds good stuff instead of gallows and what not, due to several hints in the lore of *Stronghold 3*. *(Yes, as a game Stronghold 3 is rubbish, but it had good ideas and the story around the Wolf was pretty neat.)*
 
@@ -196,7 +196,7 @@ Oh, did you like his towers? Yeah, how do I say this... err... well, there is le
 
 ![Screenshot of the new Sultan's castle](./img/sultan.png)
 
-The Sultan loves round shapes. They remember him of his lovely olive twigs, the ones mourning whenever evil is done towards the poor Sultan. And he loves gardens a lot. At nights, the Sultan loves to lay down in his beautiful flower beds, watching the stars for clues about when would be the perfect time to attack you. As no mere civilian is allowed to disturb the Sultan while having his peace in the gardens, no house is allowed to be built within his palace's walls.
+The Sultan loves round shapes. They remind him of his lovely olive twigs, the ones mourning whenever evil is done towards the poor Sultan. And he loves gardens a lot. At nights, the Sultan likes to lay down in his beautiful flower beds, watching the stars for clues about when would be the perfect time to attack you. As no mere civilian is allowed to disturb the Sultan while having his peace in the gardens, no house is allowed to be built within his palace's walls.
 
 ### King Richard the Lionheart
 
@@ -218,7 +218,7 @@ Frederick's castles consist of three sections, one in front of the next one. To 
 
 ![Screenshot of the new Philip's castle](./img/philip.png)
 
-Well, it's Philip, so don't expect a defensive architectural masterpiece. I said don't! What is this? A proper starfort. With a watch tower. It's almost as if he got a level up in competence. And then this outer village wall. Small enough for the archers behind to shoot over it. A large moat with drawbridges. Ballista towers. Knights defending specific spots at the moat. I am almost impressed, and there surely is no way Philipp could have fucked up.
+Well, it's Philipp, so don't expect a defensive architectural masterpiece. I said don't! What is this? A proper starfort. With a watch tower. It's almost as if he got a level up in competence. And then this outer village wall. Small enough for the archers behind to shoot over it. A large moat with drawbridges. Ballista towers. Knights defending specific spots at the moat. I am almost impressed, and there surely is no way Philipp could have fucked up.
 
 Well... he did. His Maginot Line is - *(not)* surprisingly - quite open at the back. Just walk around it and attack the star fort directly, or his economy. You might even walk around the outer wall to climb up its stairs. Did this guy think his castle architecture through? Perhaps he had to spend too much money for his gardens and churches, leaving no Gold coin for further stone purchases.
 
@@ -226,7 +226,7 @@ Well... he did. His Maginot Line is - *(not)* surprisingly - quite open at the b
 
 ![Screenshot of the new Wazir's castle](./img/wazir.png)
 
-He went from star-shaped castles to a triangular one. Sometimes the Wazir adds external bastions to his inner castle, making it a double-triangle or six-pointed star. This shape allows him to keep his star-ish style while also being more space-efficient. Now, more of his bread industry can be built inside his inner castle, securing it from fires. The new Wazir also makes better use of moats, including the pitch ones. Oh, and did I mention that the Wazir now makes use of tower-mounted siege engines?
+He went from star-shaped castles to a triangular one. Sometimes the Wazir adds external bastions to his inner castle, making it a double-triangle or six-pointed star. This shape allows him to keep his star-ish style while also being more space-efficient. Now, more of his bread industry can be built inside his inner castle, securing it from fires. The new Wazir also makes better use of moats, including the pitch ones. Oh, and did I mention that the Wazir now makes use of tower-mounted siege engines? And has less torture and execution devices?
 
 As a surprise, a few of his castles have a double-gatehouse with flanking towers.
 
@@ -254,7 +254,7 @@ The new Nizar also has a little... dangerous surprise for you. One of his castle
 
 Do you like his vanilla design? Well, I do, which is why I kept the overall style. The Sheriff's new castles are basically a more compact version of the vanilla ones with added defensive features. After all, the better the poor Sheriff can protect his tax payers, the more taxes he can collect! The new Sheriff protects his castles with a tower ballista and a line of fire ballistæ. Additionally, his pitch moat shrunk in size, cutting the moat renewal costs in half.
 
-For those damned criminals not paying him the taxes, the Sheriff always has dungeons available. Some prisoners await their special treatment on the rack, while the bankrupt ones will see the chopping block nearby. And for special cases, the sheriff exposes those criminal non-tax-payers in gibbets within his inner castle. He's such a nice guy, eh.
+For those damned criminals not paying him the taxes, the Sheriff always has dungeons available. Some prisoners await their special treatment on the rack, while the bankrupt ones will see gallows and gibbets in the inner castle. He's such a nice guy, eh.
 
 ### The Marshall
 
@@ -269,9 +269,9 @@ The new Marshal learned a few tricks to improve his old architecture. He patient
 
 Again, a castle you might not recognise at all. This time, however, it is quite easy to just guess who lives there. The new Abbot's castle now has a shape similar to floor plans of gothic cathedrals. In addition to that, the new Abbot's castles are more compact than his vanilla ones and always have multiple entrances, fixing all those issues where the Abbot would imprison himself in way too tight spaces.
 
-As a fun fact, the Abbot is the first AI lord I ever modded. Back then I just added a secondary front gatehouse to all of his castles.
+Fun fact: The Abbot is the first AI lord I ever modded. Back then I just added a secondary front gatehouse to all of his castles.un fact, the Abbot is the first AI lord I ever modded. Back then I just added a secondary front gatehouse to all of his castles.
 
-As an easter egg, one of his castles is turned by 45°, resulting in an actual cross shape as seen by the player, instead of an X shape due to the isometric perspective.
+As an easter egg, one of his castles is turned by 45°, resulting in an actual cross shape as seen by the player, instead of an X shape due to the isometric perspective. The new Abbot also has a good, faithful heart. He is especially good to the children of his abbey.
 
 ## Why would I want to use modded AI castles?
 
@@ -280,8 +280,8 @@ There are quite a lot of issues with Firefly's original AI castles that have not
 - Two castles of the Snake don't have an entrance. The Snake imprisons himself, starving his people to death and thus removes all the exterior *(i.e. unreachable)* industry. This even happens in campaign missions, making him a useless ally in one mission. `./firefly_fixed/` adds gatehouses here.
 - Two other castles of the Snake have wall sections with towers that are unreachable, due to missing stairs or connections to a gatehouse. This renders half of his castle's defense useless. `./firefly_fixed/` adds stairs to those wall sections or re-connects them to other wall sections.
 - In one castle Firefly forgot to give Richard his tunnelor guild. Thus, Richard cannot dig tunnels during sieges, making Elon Musk very disappointed. `./firefly_fixed/` adds the missing tunnelor guild.
-- One of the Caliph's castles has his only gatehouse placed in such a perfect way, that a cactus nearby his castle blocks the entrance, rendering the Caliph as useless during this campaign mission as the Snake. This is not yet fixed in `./firefly_fixed/`.
-- One of King Philip's castles is actually missing an armoury, which means that he will *never* recruit an army. `./firefly_fixed/` fixes this by replacing an armourer with the armoury. An easy to make mistake, thanks to the... eww AIV editor UI.
+- One of the Caliph's castles has his only gatehouse placed in such a perfect way, that a cactus nearby his castle blocks the entrance, rendering the Caliph as useless during this campaign mission as the Snake. *This is not yet fixed in `./firefly_fixed/`*.
+- One of King Philipp's castles is actually missing an armoury, which means that he will *never* recruit any troops. `./firefly_fixed/` fixes this by replacing an armourer with the armoury. An easy to make mistake, thanks to the... eww AIV editor UI.
 - One of the Sheriff's castles is missing an engineers guild. No catapult fun for him, then! Except for `./firefly_fixed/`, where this engineers guild has ben added.
 - The Rat's castles exist. And they still exist in `./firefly_fixed/`.
 - Though most of the Wolf's castles do look pretty cool *(and unrealistic)*, most of them have terrible economy paths, resulting in such a bad economy that the Wolf can barely raise some armies or recruit any defenders. In addition to that, many castles of him are just too big for just about every map. Because of that, two castles have been fixed in `./firefly_fixed`: #4 got additional gatehouses near the back to work around that ridiculous front stairway, and #6 got a well-protected front gatehouse and stairs.
@@ -291,10 +291,10 @@ There are quite a lot of issues with Firefly's original AI castles that have not
 
 ## What does this Mod better than Firefly?
 
-Note that the modded AI castles have been tested with all 80 campaign missions of *Stronghold Crusader HD*. The campaign of *Stronghold Crusader Extreme HD* has not yet been tested, as most maps of this game have way, waaay too small areas for AI lords to build their castles on. This means that the AI can almost never build the whole castle, resulting in frustrating fixing and testing sessions. Besides that, as Firefly tends to always choose the same castles of an AI lord for tight spots, fixing this castle in one campaign mission is very likely to break it in an other mission. This is especially true for the Caliph and the Wazir.
+Note that the modded AI castles have been tested with all 80 campaign missions of *Stronghold Crusader HD*. The campaign of *Stronghold Crusader Extreme HD* has also been tested, but not as much as the others. So in theory, this mod should work perfectly for all 100 campaign missions.
 
-- This mod attempts to have no bugs in the castles. No missing gatehouses, no gatehouses facing the wrong directions, no missing tunnelor or engineer guilds, not too few houses, etc.
-- Please note, that M27 is buggy as hell, due to the map itself being buggy. No AI modding whatsoever can fix that.
+- This mod attempts to have no bugs in the castles. No missing gatehouses, no gatehouses facing the wrong directions, no missing tunnelor or engineer guilds, not too few houses, etc. I'm not infallible, though, so please file issues if you spot any bugs.
+- Please note, that M27 is buggy as hell, due to the map itself being buggy. No AI modding whatsoever can fix that. There is another broken map in the Extreme campaign, but I forgot the mission number.
 - Except for the Snake, all moat-digging AI lords have at least one line of gatehouses without a drawbridge, so that they won't imprison themselves with their own moat.
 - No castle sections or gatehouses are cut off by vegetation *(e.g. cacti, which came from America and should not exist in this game)* in the campaign missions.
 - The Abbot always builds his cathedral before he builds his market. Otherwise the Abbot tends to go on a fast shopping tour, making him bankrupt right before he is about to invest that 1000 gold for his only source of melee troups.
@@ -303,7 +303,7 @@ Note that the modded AI castles have been tested with all 80 campaign missions o
 - The Rat actually has a castle now.
 - Sometimes this mod follows the basic design ideas of Firefly, and sometimes this mod does its own thing. All in all, though, all AI lords still have a distinct style not too far away from vanilla.
 - Most castles have become more dangerous than the vanilla ones, especially the Pig's.
-- All castles have a similar and sometimes even the exact same number of buildings as the vanilla castles use. This is mainly required due to hard coded economical AI behaviour. This basically means *"if vanilla Saladin has 12 houses in castle #7, then the modded Saladin also has 12 houses in castle #7" (or more if required to fix a bug)*.
+- All castles have a similar and sometimes even the exact same number of buildings as the vanilla castles use. Other times, the new castles have a simpler but at the same time more effective economy.
 - All castles also stay within the vanilla castle's bounding box, often times being smaller due to a more compact design. E.g. *"if castle #X of AI lord Y extends far to the keep's right while being 20 tiles in broadth, then the modded castle #X of lord Y also extends far to the right and is about 20 or even less tiles in broadth"*. This is very important, as most of the time specific castles of an AI lord are cherry-picked due to their shape, so that it definitely fits the map during a campaign mission. Shape meaning the castle ID. There is no code in the game analysing a castle's geometrical properties. The most notable example of this is castle #8 of the Wolf, which is this tiny little thingy Firefly likes to put near a map's borders.
 - Most AI lords have an *"easter egg castle"*, i.e. a castle that is just... weird but still fits their style.
 
@@ -311,11 +311,12 @@ Note that the modded AI castles have been tested with all 80 campaign missions o
 
 ## Creating a Pull/Merge Request
 
-As mentioned before, the *Stronghold Crusader Extreme* campaign is untested and might need a lot of fixes. At the same time, there might still be slight issues with the original 80 mission campaign or during random skirmish matches you might want to fix. You will need an installation of this game and the *"Stronghold Crusader AIV Editor"* to make any patches. To get the AIV editor, open your favourite search engine and look for *"Stronghold Crusader Community Tools"* or *"Stronghold Crusader Modding Tools"*. Once you have downloaded those tools, you have to copy this mod's files from the `./aiv/` folder into the AIV editor's `villages` folder. After that is done, you can start editing the AI castle files.
+As mentioned before, the *Stronghold Crusader Extreme* campaign is only roughly tested and might need a lot of fixes. At the same time, there might still be slight issues with the original 80 mission campaign or during random skirmish matches you might want to fix. You will need an installation of this game and the *"Stronghold Crusader AIV Editor"* to make any patches. To get the AIV editor, open your favourite search engine and look for *"Stronghold Crusader Community Tools"* or *"Stronghold Crusader Modding Tools"*. Once you have downloaded those tools, you have to copy this mod's files from the `./skirmish/` folder into the AIV editor's `villages` folder. After that is done, you can start editing the AI castle files.
 
-- Make sure that your fixes don't break any of the 80 campaign missions of *Stronghold Crusader*. As a fast check you can start a match at a speed of 90 and observe what the AI lords build during the first 3 to 10 minutes. In tighter spaces, however, longer observation will be required, as too many blocked houses will break the AI's industry thanks to a lack of workers.
+- Make sure that your fixes don't break any of the 80 campaign missions of *Stronghold Crusader*, at best also not the 20 missions of *Extreme*. As a fast check you can start a match at a speed of 90 and observe what the AI lords build during the first 3 to 10 minutes. In tighter spaces, however, longer observation will be required, as too many blocked houses will break the AI's industry thanks to a lack of workers.
 - Also make sure that your fixes don't break the architectural style of this mod.
 - The first construction steps of an AI lord should be, in order:
+	0. Where needed, the first Mill. (Nizar)
 	1. More Stockpiles
 	2. Granary
 	3. Armoury
@@ -335,12 +336,12 @@ If you are done editing your AI villages, submit a pull request containing the f
 - Describe *why* you changed specific things. This is most important.
 - Please, add a screenshot showing the issue with the original mod castle.
 - Please, also add a screenshot showing your changes in action.
-- If your pull request fixes specific campaign missions, then list them as `Crusader #1-80` or `Extreme #1-25`.
+- If your pull request fixes specific campaign missions, then list them as `Crusader #1-80` or `Extreme #1-20`.
 - If your pull request fixes a custom skirmish match, then add the following information:
 	- Add a screenshot showing your custom skirmish configuration.
 	- The screenshot needs to show the chosen AI opponents, their colours, their names, and their positions on the map.
 	- The screenshot also needs to show the game mode and the start resources.
-	- And it obviously needs to show the chosen map. Only Firefly originals in single player mode are valid. No fixes for custom maps made by the comminity or yourself. If an AI lord has an issue with custom-made maps, then fix the custom-made maps. Also don't submit fixes for something that occurred during a multiplayer game, as this makes it hard to reproduce the original issues.
+	- And it obviously needs to show the chosen map. Only Firefly originals in single player mode are valid. No fixes for custom maps made by the comminity or yourself. If an AI lord has an issue with custom-made maps, then fix the custom-made maps. Also don't submit fixes for something that only occurred during a multiplayer game, as this makes it hard to reproduce the original issues.
 
 ## Just filing an Issue
 
@@ -351,12 +352,12 @@ When creating an issue, I will need about the same information as for pull reque
 - Describe what should be changed.
 - Describe why this should be changed.
 - Add a screenshot showing the issue you have.
-- If the issue occurred during specific campaign missions, then list them as `Crusader #1-80` or `Extreme #1-25`.
+- If the issue occurred during specific campaign missions, then list them as `Crusader #1-80` or `Extreme #1-20`.
 - If this issue occurred during a custom skirmish match, then add the following information:
 	- Add a screenshot showing your custom skirmish configuration.
 	- The screenshot needs to show the chosen AI opponents, their colours, their names, and their positions on the map.
 	- The screenshot also needs to show the game mode and the start resources.
-	- And it obviously needs to show the chosen map. Only Firefly originals in single player mode are valid. Don't file issues for custom maps made by the comminity or yourself. If an AI lord has an issue with custom-made maps, then fix the custom-made maps. Also don't submit issues for something that occurred during a multiplayer game, as this makes it hard to reproduce the original issues.
+	- And it obviously needs to show the chosen map. Only Firefly originals in single player mode are valid. Don't file issues for custom maps made by the comminity or yourself. If an AI lord has an issue with custom-made maps, then fix the custom-made maps. Also don't submit issues for something that only occurred during a multiplayer game, as this makes it hard to reproduce the original issues.
 
 ## Suggesting a re-design of an AI lord
 
