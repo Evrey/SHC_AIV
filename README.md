@@ -74,7 +74,7 @@ I found it to be ridiculously difficult to find anything on medieval city walls 
 
 ![](./img/richard_history.png)
 
-Now, I had some fun with this guy. =) Richard, King of England, Duke of Normandy, Duke of Aquitaine, Duke of Gascony, Lord of Cyprus, Count of Poitiers, Count of Anjou, Count of Maine, Count of Nantes,... wait. Those are a lot of french names, eh'? Indeed, this guy ruled over 50% of medieval France. He was more powerful than the French king in his own land! And he was King of England. And he felt worse for England than Saladin felt for Egypt. Apparently, people in his time joked about that Richard would sell Englang to fund the crusade.
+Now, I had some fun with this guy. =) Richard, King of England, Duke of Normandy, Duke of Aquitaine, Duke of Gascony, Lord of Cyprus, Count of Poitiers, Count of Anjou, Count of Maine, Count of Nantes,... wait. Those are a lot of french names, eh'? Indeed, this guy ruled over 50% of medieval France. He was more powerful than the French king in his own land! And he was King of England. And he felt worse for England than Saladin felt for Egypt. Apparently, people in his time joked about that Richard would sell England to fund the crusade.
 
 Well, give him a french castle in Aquitaine or something then, eh'? Well, I could've... but instead I gave him Trifels. A german castle in which Richard was imprisoned after the third crusade. Why was Richard imprisoned? Well, look up the aftermath of the Siege of Acre.
 
