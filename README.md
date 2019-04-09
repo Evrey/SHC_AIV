@@ -66,7 +66,7 @@ As far as I understand it, a caliph is a pope-ish person for the muslims. A nota
 
 ![](./img/sultan_history.png)
 
-The Sultan is a bit tricky and indeed might reveal a bit of historical research done by Firefly Studios. A notable Sultan during the first few crusades was Kilij Arslan ("Lionsword") II. of the Sultanate of Rum. The very one who tried and failed to stop emperor Frederick I. Barbarossa from crossing throw today's Turkey.
+The Sultan is a bit tricky and indeed might reveal a bit of historical research done by Firefly Studios. A notable Sultan during the first few crusades was Kilij Arslan ("Lionsword") II. of the Sultanate of Rum. The very one who tried and failed to stop emperor Frederick I. Barbarossa from crossing through today's Turkey.
 
 I found it to be ridiculously difficult to find anything on medieval city walls or castles in Turkey, especially on Konya. Konya happened to be the capital of the Sultanate of Rum, but I couldn't find anything on the medieval layout of the city of Konya. Instead what I found was Alaeddin Hill park within the city. Looks familiar, eh'? Round-ish, full of gardens... There was an old fortification on this hill, and there is a big mosque. Not much to work with, but I guess it is better than really finding a map of medieval Konya. I mean... what would I be supposed to put inside the walls? The Sultan builds nothing! Oh dear... I guess Firefly faced the exact same issues back then.
 
