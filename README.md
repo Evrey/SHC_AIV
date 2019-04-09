@@ -106,7 +106,7 @@ For reference, the Citadel of Saladin is located a bit south of the city, or lef
 
 ![](./img/emir_history.png)
 
-I tried fining a few names of notable Emirs during the third Crusade, but couldn't find anything, so I looked into what an emir was, back at that time. Apparently, an emir was a military commander or general, who sometimes acted as a gouvernor. Okay, well, so what's the Emir governing, then? I gave him Acre. This is a game about the third Crusade, after all, and Acre was quite the big epic showdown... and long tedious siege. The strategically most important city of Acre, held by muslim forces, the camps of the Crusaders besieging Acre, eventually including the forces of Richard and Philipp, and the camp of Saladin and his forces laying siege to the Crusader's camps. Yeah, a siege during a siege. The fuck.
+I tried finding a few names of notable Emirs during the third Crusade, but couldn't find anything, so I looked into what an emir was, back at that time. Apparently, an emir was a military commander or general, who sometimes acted as a gouvernor. Okay, well, so what's the Emir governing, then? I gave him Acre. This is a game about the third Crusade, after all, and Acre was quite the big epic showdown... and long tedious siege. The strategically most important city of Acre, held by muslim forces, the camps of the Crusaders besieging Acre, eventually including the forces of Richard and Philipp, and the camp of Saladin and his forces laying siege to the Crusader's camps. Yeah, a siege during a siege. The fuck.
 
 And so, in my interpretation, the Emir is the governour of Acre, a general of Saladin.
 
