@@ -40,12 +40,12 @@ The *V* in *AIV* stands for *Village*, by the way.
 	- [The Sheriff](#skirmish-sheriff)
 	- [The Marshall](#skirmish-marshall)
 	- [The Abbot](#skirmish-abbot)
-	- [Why would I want to use modded AI castles?](##-Why-would-I-want-to-use-modded-AI-castles?)
-	- [What does this Mod better than Firefly?](##-What-does-this-Mod-better-than-Firefly?)
+	- [Why would I want to use modded AI castles?](##Why-would-I-want-to-use-modded-AI-castles?)
+	- [What does this Mod better than Firefly?](##What-does-this-Mod-better-than-Firefly?)
 - [How can I contribute?](#How-can-I-contribute?)
-	- [Creating a Pull/Merge Request](##-Creating-a-Pull/Merge-Request)
-	- [Just filing an Issue](##-Just-filing-an-Issue)
-	- [Suggesting a re-design of an AI lord](##-Suggesting-a-re-design-of-an-AI-lord)
+	- [Creating a Pull/Merge Request](##Creating-a-Pull/Merge-Request)
+	- [Just filing an Issue](##Just-filing-an-Issue)
+	- [Suggesting a re-design of an AI lord](##Suggesting-a-re-design-of-an-AI-lord)
 - [License](#License)
 
 ## What is it and how to install it?
