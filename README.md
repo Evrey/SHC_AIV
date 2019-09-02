@@ -3,8 +3,8 @@
 The *V* in *AIV* stands for *Village*, by the way.
 
 ## Content
-- [What is it and how to install it?](##What-is-it-and-how-to-install-it?)
-- [The History Pack](#The-History-Pack)
+- [What is it and how to install it?](#how-to-install)
+- [The History Pack](#history-pack)
 	- [The new AI Lords](#history-ai-lords)
 	- [The Rat](#history-rat)
 	- [The Snake](#history-snake)
@@ -22,7 +22,7 @@ The *V* in *AIV* stands for *Village*, by the way.
 	- [The Sheriff](#history-sheriff)
 	- [The Marshall](#history-marshall)
 	- [The Abbot](#history-abbot)
-- [The Skirmish Pack](#The-Skirmish-Pack)
+- [The Skirmish Pack](#skirmish-pack)
 	- [The new AI Lords](#skirmish-ai-lords)
 	- [The Rat](#skirmish-rat)
 	- [The Snake](#skirmish-snake)
@@ -42,19 +42,19 @@ The *V* in *AIV* stands for *Village*, by the way.
 	- [The Abbot](#skirmish-abbot)
 	- [Why would I want to use modded AI castles?](##Why-would-I-want-to-use-modded-AI-castles?)
 	- [What does this Mod better than Firefly?](##What-does-this-Mod-better-than-Firefly?)
-- [How can I contribute?](#How-can-I-contribute?)
-	- [Creating a Pull/Merge Request](##Creating-a-Pull/Merge-Request)
-	- [Just filing an Issue](##Just-filing-an-Issue)
-	- [Suggesting a re-design of an AI lord](##Suggesting-a-re-design-of-an-AI-lord)
-- [License](#License)
+- [How can I contribute?](#contribute)
+	- [Creating a Pull/Merge Request](#pull-request)
+	- [Just filing an Issue](#issue)
+	- [Suggesting a re-design of an AI lord](#re-design)
+- [License](#license)
 
-## What is it and how to install it?
+## <a id="how-to-install"></a> What is it and how to install it?
 
 This is a mod for the game [Stronghold Crusader HD](http://store.steampowered.com/app/40970/Stronghold_Crusader_HD/) that replaces all of the original AI lord castles with new and improved ones from me, [Evrey](https://github.com/Evrey), with some special thanks going to [Heroesflorian](https://github.com/Heroesflorian) for his valuable help to make the castles even better. To use this mod you have to download or clone this repository and copy all files from the `./skirmish/` or the `./history/` directory to the `aiv` directory of your Stronghold Crusader installation, after deleting *all* the 128 original files. For the Steam version of Stronghold Crusader HD, this directory is located at `<Steam Directory>/steamapps/common/Stronghold Crusader Extreme/aiv/`. If you want to have Firefly's original AI castles back, you can copy the files from `./firefly_vanilla/` to the game's `aiv` directory.
 
 Additionally, **if you just want to fix the bugs of Firefly's castles**, then copy all files from `./firefly_fixed/`. Those are Firefly's original castles with a few fixes applied, like the addition of missing defenders where useful, the addition of required gatehouses, or adding important economical buildings Firefly forgot.
 
-# The History Pack
+# <a id="history-pack"></a> The History Pack
 
 This is a pack of 16 new castles, all based on real historical ones. These are *not* skirmish campaign optimised and often need quite a lot of space in one direction. Big surprise, real historical castles often tend to grow away from the keep, and real castles are quite often rather long and thin if built on a rock or mountain.
 
@@ -188,7 +188,7 @@ As a bonus, there's a tower protecting the Abbot's cathedral from the side. See 
 
 
 
-# The Skirmish Pack
+# <a id="skirmish-pack"></a> The Skirmish Pack
 
 This is a pack of 128 new castles for the 16 vanilla lords. All castles are optimised and tested for all 100 skirmish campaign missions. Yes, that's all 50 original, 30 HD release, and 20 Extreme skirmish missions.
 
@@ -319,7 +319,7 @@ Fun fact: The Abbot is the first AI lord I ever modded. Back then I just added a
 
 As an easter egg, one of his castles is turned by 45°, resulting in an actual cross shape as seen by the player, instead of an X shape due to the isometric perspective. The new Abbot also has a good, faithful heart. He is especially good to the children of his abbey.
 
-## Why would I want to use modded AI castles?
+## <a id="why-use"></a> Why would I want to use modded AI castles?
 
 There are quite a lot of issues with Firefly's original AI castles that have not yet been officially fixed, some not even since *Stronghold Crusader's* first release back in September 2002. *(The original release only had 8 AI lords instead of today's 16.)*
 
@@ -335,7 +335,7 @@ There are quite a lot of issues with Firefly's original AI castles that have not
 - Some AI castles are only accessible through a drawbridge. While drawbridges are awesome, they are problematic in this game. If you destroy the gatehouses to which the drawbridges are connected, and if the besieged AI lord cannot get any more stone and wood *(bankrupt or destroyed market)* to repair the gatehouse and drawbridge, then he is imprisoned by his own moat. And as an AI lord does never delete his own moat, this results in him staying bankrupt and imprisoned forever. `./firefly_fixed/` does not change that.
 - There are many, many more issues with the original AI castles, e.g. castles having way too few houses. In case of the houses, a lot of castles got additional ones in `./firefly_fixed/`.
 
-## What does this Mod better than Firefly?
+## <a id="what-better"></a> What does this Mod better than Firefly?
 
 Note that the modded AI castles have been tested with all 80 campaign missions of *Stronghold Crusader HD*. The campaign of *Stronghold Crusader Extreme HD* has also been tested, but not as much as the others. So in theory, this mod should work perfectly for all 100 campaign missions.
 
@@ -353,9 +353,9 @@ Note that the modded AI castles have been tested with all 80 campaign missions o
 - All castles also stay within the vanilla castle's bounding box, often times being smaller due to a more compact design. E.g. *"if castle #X of AI lord Y extends far to the keep's right while being 20 tiles in broadth, then the modded castle #X of lord Y also extends far to the right and is about 20 or even less tiles in broadth"*. This is very important, as most of the time specific castles of an AI lord are cherry-picked due to their shape, so that it definitely fits the map during a campaign mission. Shape meaning the castle ID. There is no code in the game analysing a castle's geometrical properties. The most notable example of this is castle #8 of the Wolf, which is this tiny little thingy Firefly likes to put near a map's borders.
 - Most AI lords have an *"easter egg castle"*, i.e. a castle that is just... weird but still fits their style.
 
-# How can I contribute?
+# <a id="contribute"></a> How can I contribute?
 
-## Creating a Pull/Merge Request
+## <a id="pull-request></a> Creating a Pull/Merge Request
 
 As mentioned before, the *Stronghold Crusader Extreme* campaign is only roughly tested and might need a lot of fixes. At the same time, there might still be slight issues with the original 80 mission campaign or during random skirmish matches you might want to fix. You will need an installation of this game and the *"Stronghold Crusader AIV Editor"* to make any patches. To get the AIV editor, open your favourite search engine and look for *"Stronghold Crusader Community Tools"* or *"Stronghold Crusader Modding Tools"*. Once you have downloaded those tools, you have to copy this mod's files from the `./skirmish/` folder into the AIV editor's `villages` folder. After that is done, you can start editing the AI castle files.
 
@@ -389,7 +389,7 @@ If you are done editing your AI villages, submit a pull request containing the f
 	- The screenshot also needs to show the game mode and the start resources.
 	- And it obviously needs to show the chosen map. Only Firefly originals in single player mode are valid. No fixes for custom maps made by the comminity or yourself. If an AI lord has an issue with custom-made maps, then fix the custom-made maps. Also don't submit fixes for something that only occurred during a multiplayer game, as this makes it hard to reproduce the original issues.
 
-## Just filing an Issue
+## <a id="issue"></a> Just filing an Issue
 
 In case you don't feel competent enough to use Firefly's AIV Editor, or if the AIV Editor simply doesn't work on your computer and operating system, or if you just lack the time to fix things yourself, you can just file an issue, so that I can have a look at the problem and fix it myself. Though I cannot guarantee to have time for that myself right away, I will eventually.
 
@@ -405,7 +405,7 @@ When creating an issue, I will need about the same information as for pull reque
 	- The screenshot also needs to show the game mode and the start resources.
 	- And it obviously needs to show the chosen map. Only Firefly originals in single player mode are valid. Don't file issues for custom maps made by the comminity or yourself. If an AI lord has an issue with custom-made maps, then fix the custom-made maps. Also don't submit issues for something that only occurred during a multiplayer game, as this makes it hard to reproduce the original issues.
 
-## Suggesting a re-design of an AI lord
+## <a id="re-design"></a> Suggesting a re-design of an AI lord
 
 In case you have an idea on how to improve the castle designs of a specific AI lord, e.g. if you have an idea for sexier Sultan castles, then feel free to create an issue so that we can discuss your ideas.
 
@@ -417,7 +417,7 @@ As exact castle layouts in *Stronghold Crusader* are hard to describe, you shoul
 
 Also, don't forget to mention which castle(s) your designs are meant to replace, what the benefits of your designs are, what you missed in the original mod designs, etc.
 
-# License
+# <a id="license"></a> License
 
 Keep in mind that this is just a mod for *Firefly Studio's* game *Stronghold Crusader (Extreme) HD*. Without this game, this mod is worth nothing.
 
