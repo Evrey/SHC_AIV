@@ -355,7 +355,7 @@ Note that the modded AI castles have been tested with all 80 campaign missions o
 
 # <a id="contribute"></a> How can I contribute?
 
-## <a id="pull-request></a> Creating a Pull/Merge Request
+## <a id="pull-request"></a> Creating a Pull/Merge Request
 
 As mentioned before, the *Stronghold Crusader Extreme* campaign is only roughly tested and might need a lot of fixes. At the same time, there might still be slight issues with the original 80 mission campaign or during random skirmish matches you might want to fix. You will need an installation of this game and the *"Stronghold Crusader AIV Editor"* to make any patches. To get the AIV editor, open your favourite search engine and look for *"Stronghold Crusader Community Tools"* or *"Stronghold Crusader Modding Tools"*. Once you have downloaded those tools, you have to copy this mod's files from the `./skirmish/` folder into the AIV editor's `villages` folder. After that is done, you can start editing the AI castle files.
 
