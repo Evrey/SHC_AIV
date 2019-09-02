@@ -2,6 +2,52 @@
 
 The *V* in *AIV* stands for *Village*, by the way.
 
+## Content
+- [What is it and how to install it?](##What-is-it-and-how-to-install-it?)
+- [The History Pack](#The-History-Pack)
+	- [The new AI Lords](#history-ai-lords)
+	- [The Rat](#history-rat)
+	- [The Snake](#history-snake)
+	- [The Pig](#history-pig)
+	- [The Wolf](#history-wolf)
+	- [Sultan Saladin](#history-saladin)
+	- [The Caliph](#history-caliph)
+	- [Sultan](#history-sultan)
+	- [King Richard the Lionheart](#history-richard)
+	- [Kaiser Friedrich I. Barbarossa](#history-friedrich)
+	- [King Philippe II. Augustue](#history-philippe)
+	- [The Wazir](#history-wazir)
+	- [The Emir](#history-emir)
+	- [The Nizar](#history-nizar)
+	- [The Sheriff](#history-sheriff)
+	- [The Marshall](#history-marshall)
+	- [The Abbot](#history-abbot)
+- [The Skirmish Pack](#The-Skirmish-Pack)
+	- [The new AI Lords](#skirmish-ai-lords)
+	- [The Rat](#skirmish-rat)
+	- [The Snake](#skirmish-snake)
+	- [The Pig](#skirmish-pig)
+	- [The Wolf](#skirmish-wolf)
+	- [Sultan Saladin](#skirmish-saladin)
+	- [The Caliph](#skirmish-caliph)
+	- [Sultan](#skirmish-sultan)
+	- [King Richard the Lionheart](#skirmish-richard)
+	- [Kaiser Friedrich I. Barbarossa](#skirmish-friedrich)
+	- [King Philippe II. Augustue](#skirmish-philippe)
+	- [The Wazir](#skirmish-wazir)
+	- [The Emir](#skirmish-emir)
+	- [The Nizar](#skirmish-nizar)
+	- [The Sheriff](#skirmish-sheriff)
+	- [The Marshall](#skirmish-marshall)
+	- [The Abbot](#skirmish-abbot)
+	- [Why would I want to use modded AI castles?](##-Why-would-I-want-to-use-modded-AI-castles?)
+	- [What does this Mod better than Firefly?](##-What-does-this-Mod-better-than-Firefly?)
+- [How can I contribute?](#How-can-I-contribute?)
+	- [Creating a Pull/Merge Request](##-Creating-a-Pull/Merge-Request)
+	- [Just filing an Issue](##-Just-filing-an-Issue)
+	- [Suggesting a re-design of an AI lord](##-Suggesting-a-re-design-of-an-AI-lord)
+- [License](#License)
+
 ## What is it and how to install it?
 
 This is a mod for the game [Stronghold Crusader HD](http://store.steampowered.com/app/40970/Stronghold_Crusader_HD/) that replaces all of the original AI lord castles with new and improved ones from me, [Evrey](https://github.com/Evrey), with some special thanks going to [Heroesflorian](https://github.com/Heroesflorian) for his valuable help to make the castles even better. To use this mod you have to download or clone this repository and copy all files from the `./skirmish/` or the `./history/` directory to the `aiv` directory of your Stronghold Crusader installation, after deleting *all* the 128 original files. For the Steam version of Stronghold Crusader HD, this directory is located at `<Steam Directory>/steamapps/common/Stronghold Crusader Extreme/aiv/`. If you want to have Firefly's original AI castles back, you can copy the files from `./firefly_vanilla/` to the game's `aiv` directory.
@@ -14,15 +60,15 @@ This is a pack of 16 new castles, all based on real historical ones. These are *
 
 The castle miniatures are not entirely to scale. Sometimes castle sections get squished, sometimes cut away. The required buildings for a bot's economy are just too huge to fit into real historical castle designs, and the keep cannot be re-positioned. You can judge the compromises I made yourself, as every castle preview picture is accompanied with a floor plan, satellite image, or otherwise reconstruction of the reference castle. If possible, a moat is added to all castles in two cases: If the reference castle has a moat there as well, or if there was a cliff blocking access.
 
-## The new AI Lords
+## <a id="history-ai-lords"></a> The new AI Lords 
 
-### The Rat
+### <a id="history-rat"></a> The Rat
 
 ![](./img/rat_history.png)
 
 This castle is based in Château de Culan. It is tiny, it looks cool, it was quite often besieged and destroyed, and it lies in the Plantagenêt half of medieval France. Wait, France? Well, the Rat's name *is* de Puce, and the Plantagenêts were a dynasty in hold of the English throne.
 
-### The Snake
+### <a id="history-snake"></a> The Snake
 
 ![](./img/snake_history.png)
 
@@ -30,7 +76,7 @@ Dear earl Beauregard got himself a french castle as well: Château de Najac. It 
 
 Backstabbing and money... well, if that doesn't sound like Beauregard.
 
-### The Pig
+### <a id="history-pig"></a> The Pig
 
 ![](./img/pig_history.png)
 
@@ -38,7 +84,7 @@ Big surprise here, Duc Truffe got a french castle. This time it's based on Chât
 
 Now, there is just one reason why I picked this specific french castle, besides also being located in the then Plantagenêt half of France. See that big round tower attached with a piece of wall to the donjon? To me that feels pretty much like vanilla Crusader Pig architecture.
 
-### The Wolf
+### <a id="history-wolf"></a> The Wolf
 
 ![](./img/wolf_history.png)
 
@@ -48,7 +94,7 @@ His castle is based on what seems to be a common style in northern Italy, two ca
 
 Soncino is in Lombardy, one of the regions of northern Italy where emperor Frederick I. had a good bunch of military fun and failure. Quite fitting, as in my opinion, given the fixes done by the [Unofficial Crusader Patch](https://github.com/Sh0wdown/UnofficialCrusaderPatch) Frederick is the second strongest bot in the game, not far behind the Wolf.
 
-### Sultan Saladin
+### <a id="history-saladin"></a> Sultan Saladin
 
 ![](./img/saladin_history.png)
 
@@ -56,13 +102,13 @@ Now, this is a fun one. There are some castles and citadels named after him, mos
 
 Oh, the church? Unlike Crusader 2, Crusader 1 has no mosque skins for muslim lords. Just imagine those churches to be mosques. It would be weird for a muslim city to not have a mosque, especially if its Sultan calls himself "salvation of the religion".
 
-### The Caliph
+### <a id="history-caliph"></a> The Caliph
 
 ![](./img/caliph_history.png)
 
 As far as I understand it, a caliph is a pope-ish person for the muslims. A notable dynasty was the Fatimid Caliphate, that once conquered Egypt and established Cairo as their capital. So, obviously, the Caliph should get something from Cairo. How about this Citadel of Saladin, then? Just as a little bit of irony. The Caliph builds the citadel using the high medieval layout. Unlike the historical citadel, but quite fitting for a pope-ish guy, a lot of religions buildings fill the castle ward. Now the Caliph can burn those "infidel" crusaders while defending Egypt.
 
-### The Sultan
+### The <a id="history-sultan"></a> Sultan
 
 ![](./img/sultan_history.png)
 
@@ -70,7 +116,7 @@ The Sultan is a bit tricky and indeed might reveal a bit of historical research 
 
 I found it to be ridiculously difficult to find anything on medieval city walls or castles in Turkey, especially on Konya. Konya happened to be the capital of the Sultanate of Rum, but I couldn't find anything on the medieval layout of the city of Konya. Instead what I found was Alaeddin Hill park within the city. Looks familiar, eh'? Round-ish, full of gardens... There was an old fortification on this hill, and there is a big mosque. Not much to work with, but I guess it is better than really finding a map of medieval Konya. I mean... what would I be supposed to put inside the walls? The Sultan builds nothing! Oh dear... I guess Firefly faced the exact same issues back then.
 
-### King Richard the Lionheart
+### <a id="history-richard"></a> King Richard the Lionheart
 
 ![](./img/richard_history.png)
 
@@ -78,13 +124,13 @@ Now, I had some fun with this guy. =) Richard, King of England, Duke of Normandy
 
 Well, give him a french castle in Aquitaine or something then, eh'? Well, I could've... but instead I gave him Trifels. A german castle in which Richard was imprisoned after the third crusade. Why was Richard imprisoned? Well, look up the aftermath of the Siege of Acre.
 
-### Kaiser Friedrich I. Barbarossa
+### <a id="history-friedrich"></a> Kaiser Friedrich I. Barbarossa
 
 ![](./img/frederick_history.png)
 
 Ah yes, Frederick, that steamrolling badarse who might've conquered Jerusalem if he didn't drown. Put simply, he got the castle of Nürnberg. During the middle ages, there was no such thing as a capital in the German empire. For the most part, every duke did their own thing. The emperors moved from duchy to duchy, asserting their dominance, and occasionally guiding the dukes into a direction they felt benefited the empire as a whole. There was one castle, though, which apparently was the favourite residence of most medieval german emperors, and there is no medieval german emperor who did not at least once reside in this castle: Nürnberg.
 
-### King Philippe II. Augustue
+### <a id="history-philippe"></a> King Philippe II. Augustue
 
 ![](./img/philip_history.png)
 
@@ -92,7 +138,7 @@ The real Philipp II. was quite the badarse, managed to kick Plantagenêt butts a
 
 Well, Philipp's castle in this pack is the Louvre.
 
-### The Wazir
+### <a id="history-wazir"></a> The Wazir
 
 ![](./img/wazir_history.png)
 
@@ -102,7 +148,7 @@ I tried my best modelling the rough shape of the city walls and positioning the 
 
 For reference, the Citadel of Saladin is located a bit south of the city, or left on the reference picture.
 
-### The Emir
+### <a id="history-emir"></a> The Emir
 
 ![](./img/emir_history.png)
 
@@ -110,13 +156,13 @@ I tried finding a few names of notable Emirs during the third Crusade, but could
 
 And so, in my interpretation, the Emir is the governour of Acre, a general of Saladin.
 
-### The Nizar
+### <a id="history-nizar"></a> The Nizar
 
 ![](./img/nizar_history.png)
 
 The Nizar is a Hollywood Ninja throwing Hollywood Ninja en masse at you. Said Ninja are called assassins in the Stronghold series. Well, the order of the assassins did exist, and they did assassinate a lot, and as every player of the first Assassin's Creed game knows, their home was Masyaf castle. Now, the real Masyaf looks nothing like the poor thing in the Assassin's Creed game, though.
 
-### The Sheriff
+### <a id="history-sheriff"></a> The Sheriff
 
 ![](./img/sheriff_history.png)
 
@@ -124,7 +170,7 @@ The Nizar is a Hollywood Ninja throwing Hollywood Ninja en masse at you. Said Ni
 
 To match Robin Hood lore, the Sheriff builds a prison and a few gallows.
 
-### The Marshal
+### <a id="history-marshall"></a> The Marshal
 
 ![](./img/marshall_history.png)
 
@@ -132,7 +178,7 @@ Marshal is... interesting. He's brave, knightly, dispatches tons of knights, and
 
 The two back gates are there for gameplay reasons. The real Tintagel sits on a peninsula.
 
-### The Abbot
+### <a id="history-abbot"></a> The Abbot
 
 ![](./img/abbot_history.png)
 
@@ -146,9 +192,9 @@ As a bonus, there's a tower protecting the Abbot's cathedral from the side. See 
 
 This is a pack of 128 new castles for the 16 vanilla lords. All castles are optimised and tested for all 100 skirmish campaign missions. Yes, that's all 50 original, 30 HD release, and 20 Extreme skirmish missions.
 
-## The new AI Lords
+## <a id="skirmish-ai-lords"></a> The new AI Lords
 
-### The Rat
+### <a id="skirmish-rat"></a> The Rat
 
 ![Screenshot of the new Rat's castle](./img/rat.png)
 
@@ -156,7 +202,7 @@ The Rat now actually builds a proper castle, which is inspired by Norman Keeps a
 
 What you see here is the Rat's smallest castle, which encloses nothing but the keep.
 
-### The Snake
+### <a id="skirmish-snake"></a> The Snake
 
 ![Screenshot of the new Snake's castle](./img/snake.png)
 
@@ -164,7 +210,7 @@ Did you like vanilla Snake #3, the snake-and-"S"-shaped castle? Well, that's his
 
 As an easter egg, one of his castles is a rather... edge-y... rectangle-ish... thing using square-shaped towers.
 
-### The Pig
+### <a id="skirmish-pig"></a> The Pig
 
 ![Screenshot of the new Pig's castle](./img/pig.png)
 
@@ -172,7 +218,7 @@ All in all, the pig still builds his... weird... wall thing with low walls. Gran
 
 Unlike the vanilla castles, this Pig builds bad stuff all over the place. Dungeons, racks, chopping blocks,... everything there is to be built. This isn't enough to give him -5 popularity, but it surely is enough to emphasize his character. Really, why didn't Firefly give him more than occasionally two gallows?
 
-### The Wolf
+### <a id="skirmish-wolf"></a> The Wolf
 
 ![Screenshot of the new Wolf's castle](./img/wolf.png)
 
@@ -180,25 +226,25 @@ The Wolf now has a more unified architecture, though each of the castles still h
 
 As an easter egg the Wolf now also builds good stuff instead of gallows and what not, due to several hints in the lore of *Stronghold 3*. *(Yes, as a game Stronghold 3 is rubbish, but it had good ideas and the story around the Wolf was pretty neat.)*
 
-### Sultan Saladin
+### <a id="skirmish-saladin"></a> Sultan Saladin
 
 ![Screenshot of the new Saladin's castle](./img/saladin.png)
 
 You might recognise his vanilla architecture, which is mostly influenced by vanilla Saladin #1. Similarly to the new Wolf, Saladin has a front line of three mangonel towers and a back defence of two ballista towers protecting his castle. In addition to that, he likes to cover his secondary entrances with towers like vanilla Saladin #1.
 
-### The Caliph
+### <a id="skirmish-caliph"></a> The Caliph
 
 ![Screenshot of the new Caliph's castle](./img/caliph.png)
 
 Oh, did you like his towers? Yeah, how do I say this... err... well, there is less of 'em. Eight towers, to be precise. Unlike before, those towers are heavily manned. Additionally, destroying the Caliph's toothpick towers does not create a breach. Thus, the Caliph completes his castles quicker and protects them better at the same time.
 
-### The Sultan
+### <a id="skirmish-sultan"></a> The Sultan
 
 ![Screenshot of the new Sultan's castle](./img/sultan.png)
 
 The Sultan loves round shapes. They remind him of his lovely olive twigs, the ones mourning whenever evil is done towards the poor Sultan. And he loves gardens a lot. At nights, the Sultan likes to lay down in his beautiful flower beds, watching the stars for clues about when would be the perfect time to attack you. As no mere civilian is allowed to disturb the Sultan while having his peace in the gardens, no house is allowed to be built within his palace's walls.
 
-### King Richard the Lionheart
+### <a id="skirmish-richard"></a>King Richard the Lionheart
 
 ![Screenshot of the new Richard's castle](./img/richard.png)
 
@@ -206,7 +252,7 @@ Huh... does this castle look familiar? I guess... could it be?! It is! Richard n
 
 Can you spot the easter egg? Well, have a close look at your *ally*. :)
 
-### Kaiser Friedrich I. Barbarossa
+### <a id="skirmish-friedrich"></a> Kaiser Friedrich I. Barbarossa
 
 ![Screenshot of the new Frederick's castle](./img/frederick.png)
 
@@ -214,7 +260,7 @@ This castle has propably the most historically accurate layout you'll ever see i
 
 Frederick's castles consist of three sections, one in front of the next one. To improve his castle's defences, a section's walls are never connected to an other section's walls. And thus, unlike e.g. the castles of the original Wolf, you cannot take over the whole castle by pushing just one siege tower somewhere against the walls. The original castle is built on a hill-rock-thing. To compensate for the lack of such positions in *Stronghold Crusader*, Frederick's castles are surrounded by a thick moat.
 
-### King Philippe II. Augustue
+### <a id="skirmish-philippe"></a> King Philippe II. Augustue
 
 ![Screenshot of the new Philip's castle](./img/philip.png)
 
@@ -222,7 +268,7 @@ Well, it's Philipp, so don't expect a defensive architectural masterpiece. I sai
 
 Well... he did. His Maginot Line is - *(not)* surprisingly - quite open at the back. Just walk around it and attack the star fort directly, or his economy. You might even walk around the outer wall to climb up its stairs. Did this guy think his castle architecture through? Perhaps he had to spend too much money for his gardens and churches, leaving no Gold coin for further stone purchases.
 
-### The Wazir
+### <a id="skirmish-wazir"></a> The Wazir
 
 ![Screenshot of the new Wazir's castle](./img/wazir.png)
 
@@ -230,7 +276,7 @@ He went from star-shaped castles to a triangular one. Sometimes the Wazir adds e
 
 As a surprise, a few of his castles have a double-gatehouse with flanking towers.
 
-### The Emir
+### <a id="skirmish-emir"></a>The Emir
 
 ![Screenshot of the new Emir's castle](./img/emir.png)
 
@@ -238,7 +284,7 @@ The new Emir now has an outer and an inner castle wall. His basic style is somew
 
 As an easter egg, one of the Emir's castles has its walls swapped: The outer city wall is high, big, and has massive towers, whereas the inner wall is small, thin, and has those toothpicks attached to it.
 
-### The Nizar
+### <a id="skirmish-nizar"></a> The Nizar
 
 ![Screenshot of the new Nizar's castle](./img/nizar.png)
 
@@ -248,7 +294,7 @@ The new Nizar is way more compact, having a much smaller industry. He still make
 
 The new Nizar also has a little... dangerous surprise for you. One of his castles even warns you with a big danger sign.
 
-### The Sheriff
+### <a id="skirmish-sheriff"></a> The Sheriff
 
 ![Screenshot of the new Sheriff's castle](./img/sheriff.png)
 
@@ -256,14 +302,14 @@ Do you like his vanilla design? Well, I do, which is why I kept the overall styl
 
 For those damned criminals not paying him the taxes, the Sheriff always has dungeons available. Some prisoners await their special treatment on the rack, while the bankrupt ones will see gallows and gibbets in the inner castle. He's such a nice guy, eh.
 
-### The Marshall
+### <a id="skirmish-marshall"></a> The Marshall
 
 ![Screenshot of the new Marshall's castle](./img/marshall.png)
 
 The new Marshal learned a few tricks to improve his old architecture. He patiently studied the other AI lords and adapted whatever he felt comfortable with. From Frederick, he learned to use defensive trebuchets, so he got one. From Saladin he learned that offsetting the towers from the walls they protect is a good thing to do. The Snake showed him how useful enclosing his front lines with a moat is. Finally, from the Wolf he learned that it might be useful to force the enemy through multiple gatehouses if they dare storming his castle. Sadly, the Marshall learned from Richard how to man his towers.
 
 
-### The Abbot
+### <a id="skirmish-abbot"></a> The Abbot
 
 ![Screenshot of the new Abbot's castle](./img/abbot.png)
 
