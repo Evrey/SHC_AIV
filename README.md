@@ -2,6 +2,12 @@
 
 The *V* in *AIV* stands for *Village*, by the way.
 
+## <a id="how-to-install"></a> What is it and how to install it?
+
+This is a mod for the game [Stronghold Crusader HD](http://store.steampowered.com/app/40970/Stronghold_Crusader_HD/) that replaces all of the original AI lord castles with new and improved ones from me, [Evrey](https://github.com/Evrey), with some special thanks going to [Heroesflorian](https://github.com/Heroesflorian) for his valuable help to make the castles even better. To use this mod you have to download or clone this repository and copy all files from the `./skirmish/` or the `./history/` directory to the `aiv` directory of your Stronghold Crusader installation, after deleting *all* the 128 original files. For the Steam version of Stronghold Crusader HD, this directory is located at `<Steam Directory>/steamapps/common/Stronghold Crusader Extreme/aiv/`. If you want to have Firefly's original AI castles back, you can copy the files from `./firefly_vanilla/` to the game's `aiv` directory.
+
+Additionally, **if you just want to fix the bugs of Firefly's castles**, then copy all files from `./firefly_fixed/`. Those are Firefly's original castles with a few fixes applied, like the addition of missing defenders where useful, the addition of required gatehouses, or adding important economical buildings Firefly forgot.
+
 ## Content
 - [What is it and how to install it?](#how-to-install)
 - [The History Pack](#history-pack)
@@ -47,12 +53,6 @@ The *V* in *AIV* stands for *Village*, by the way.
 	- [Just filing an Issue](#issue)
 	- [Suggesting a re-design of an AI lord](#re-design)
 - [License](#license)
-
-## <a id="how-to-install"></a> What is it and how to install it?
-
-This is a mod for the game [Stronghold Crusader HD](http://store.steampowered.com/app/40970/Stronghold_Crusader_HD/) that replaces all of the original AI lord castles with new and improved ones from me, [Evrey](https://github.com/Evrey), with some special thanks going to [Heroesflorian](https://github.com/Heroesflorian) for his valuable help to make the castles even better. To use this mod you have to download or clone this repository and copy all files from the `./skirmish/` or the `./history/` directory to the `aiv` directory of your Stronghold Crusader installation, after deleting *all* the 128 original files. For the Steam version of Stronghold Crusader HD, this directory is located at `<Steam Directory>/steamapps/common/Stronghold Crusader Extreme/aiv/`. If you want to have Firefly's original AI castles back, you can copy the files from `./firefly_vanilla/` to the game's `aiv` directory.
-
-Additionally, **if you just want to fix the bugs of Firefly's castles**, then copy all files from `./firefly_fixed/`. Those are Firefly's original castles with a few fixes applied, like the addition of missing defenders where useful, the addition of required gatehouses, or adding important economical buildings Firefly forgot.
 
 # <a id="history-pack"></a> The History Pack
 
